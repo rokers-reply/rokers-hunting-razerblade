@@ -27,7 +27,7 @@
 |------------------------------------------------------|------------------|---------------|---------------|-------|
 | [@FiorellaSibona](https://github.com/FiorellaSibona) | Fiorella         | Sibona        | ?             | -     |
 | [@gmacario](https://github.com/gmacario)             | Gianpaolo        | Macario       | @gmacario     | -     |
-| [@ludusrusso](https://github.com/ludusrusso)         | Ludovico Orlando | Russo         | ?             | -     |
+| [@ludusrusso](https://github.com/ludusrusso)         | Ludovico Orlando | Russo         | @ludusrusso   | -     |
 | [@xrmx](https://github.com/xrmx)                     | Riccardo         | Magliocchetti | ?             | -     |
 
 ### The Project Rules
