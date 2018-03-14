@@ -23,12 +23,12 @@
 
 (Please keep entries sorted by GitHub_ID)
 
-| GitHub_ID                                            | Firstname        | Lastname      | Telegram_ID | Notes |
-|------------------------------------------------------|------------------|---------------|-------------|-------|
-| [@FiorellaSibona](https://github.com/FiorellaSibona) | Fiorella         | Sibona        | ?           | -     |
-| [@gmacario](https://github.com/gmacario)             | Gianpaolo        | Macario       | ?           | -     |
-| [@ludusrusso](https://github.com/ludusrusso)         | Ludovico Orlando | Russo         | @gmacario   | -     |
-| [@xrmx](https://github.com/xrmx)                     | Riccardo         | Magliocchetti | ?           | -     |
+| GitHub_ID                                            | Firstname        | Lastname      | Telegram_ID   | Notes |
+|------------------------------------------------------|------------------|---------------|---------------|-------|
+| [@FiorellaSibona](https://github.com/FiorellaSibona) | Fiorella         | Sibona        | ?             | -     |
+| [@gmacario](https://github.com/gmacario)             | Gianpaolo        | Macario       | @gmacario     | -     |
+| [@ludusrusso](https://github.com/ludusrusso)         | Ludovico Orlando | Russo         | ?             | -     |
+| [@xrmx](https://github.com/xrmx)                     | Riccardo         | Magliocchetti | ?             | -     |
 
 ### The Project Rules
 
