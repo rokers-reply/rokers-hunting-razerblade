@@ -35,9 +35,9 @@
 1. We (the Project Team) only code in Python
 2. No Project Team member can leave the Project before completion of [M.2](https://github.com/ludusrusso/rokers-hunting-razerblade/milestone/3)
 3. All the communications between the Project Team members take place using one of the following channels:
-  - Issues and Pull Requests on GitHub project [ludusrusso/rokers-hunting-razerblade](https://github.com/ludusrusso/rokers-hunting-razerblade)
-  - Messages on the Telegram group "ROKERS hunting for a Razer Blade"
-  - Chat inside the [JOL](https://github.com/ludusrusso/rokers-hunting-razerblade/issues/10)
+   - Issues and Pull Requests on GitHub project [ludusrusso/rokers-hunting-razerblade](https://github.com/ludusrusso/rokers-hunting-razerblade)
+   - Messages on the Telegram group "ROKERS hunting for a Razer Blade"
+   - Chat inside the [JOL](https://github.com/ludusrusso/rokers-hunting-razerblade/issues/10)
 4. Any change to the Project Rules follows the Change Management process described below
 5. The Only (remaining) Rule Is That [There Are No Rules](https://www.youtube.com/watch?v=YN0WTpEZn3w)
 
