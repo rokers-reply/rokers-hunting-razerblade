@@ -40,10 +40,11 @@ def parse_service(lines):
 
 def parse_project(line):
     parse = line.split()
+    print(parse)
     project = {
         'penalty': int(parse[0]),
         'country': parse[1],
-        'units': [int(u) for u in parse[2]]
+        'units': [int(u) for u in parse[2:]]
     }
     return project
 
@@ -54,7 +55,7 @@ def parse_file(filename):
     n_projects = 0
     data= {
         'nums': [],
-        'prividers': [],
+        'providers': [],
         'services': [],
         'contries': [],
         'projects': [],
@@ -69,7 +70,8 @@ def parse_file(filename):
     lines = lines[3:]
     services = {}
     for _ in range(n_services):
-        service, lines = parse_service(lines)
+        provider, lines = parse_service(lines)
+        data["providers"].append(provider)
 
     for line in lines:
         project = parse_project(line)
@@ -80,7 +82,7 @@ if __name__ == '__main__':
     import pprint
     pp = pprint.PrettyPrinter(indent=4)
     data = parse_file('./inputs/test.in')
-    # pp.pprint(data)
+    pp.pprint(data)
 
     ps = data['projects']
     assert len(ps) == 5
