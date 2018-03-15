@@ -84,6 +84,6 @@ if __name__ == '__main__':
 
     ps = data['projects']
     assert len(ps) == 5
-    ps[0]['country'] == 'Italy'
-    ps[1]['country'] == 'Spain'
+    assert ps[0]['country'] == 'Italy'
+    assert ps[1]['country'] == 'Spain'
     
