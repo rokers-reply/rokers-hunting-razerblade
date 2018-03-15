@@ -1,5 +1,7 @@
 # rokers-hunting-razerblade
 
+This the repository with the solution to the [Reply Code Challenge](https://challenges.reply.com/tamtamy/challenge/5/detail) provided by the rokers team.
+
 ### The Project Logo
 
 "There is no GitHub project without a logo"  -- [Gianpaolo Macario](https://gmacario.github.io/), 2018
