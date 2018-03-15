@@ -1,0 +1,3 @@
+numpy==1.14.2
+pygame==1.9.3
+pylygon==1.3.2rc0
