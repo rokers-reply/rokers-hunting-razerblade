@@ -9,6 +9,7 @@ pipeline {
     stage('Build') {
       steps {
         echo 'Building output files'
+        sh 'python3 libs.py'
         sh 'python3 parsing.py'
         archiveArtifacts '*.py'
       }
