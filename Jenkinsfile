@@ -11,7 +11,9 @@ pipeline {
         echo 'Building output files'
         sh 'python3 libs.py'
         sh 'python3 parsing.py'
-        archiveArtifacts '*.py'
+        echo 'Archiving source files'
+        sh 'tar cvf sources.tar.gz LICENSE README.md *.py'
+        archiveArtifacts '*.tar.gz'
       }
     }
   }
