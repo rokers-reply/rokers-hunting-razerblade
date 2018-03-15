@@ -8,7 +8,6 @@
 
 **Acknowledgements**: The logo has been gently created by [Scott Lewis](https://thenounproject.com/iconify/) from Noun Project.
 
-
 ### The Project Charter
 
 * [x] (M.0) Build up the Project Team
@@ -46,6 +45,20 @@
 * Any Team Member may propose a change to the Project Rules above by creating a [new Issue](https://github.com/ludusrusso/rokers-hunting-razerblade/issues/new).
 * The change must be reviewed and approved by all the other Project Team members.
 * If the change is approved, the proposer shall update this document by means of a corresponding [Pull Request](https://github.com/ludusrusso/rokers-hunting-razerblade/pulls).
+
+### How to use the program
+
+#### Execute the program as a Jenkins pipeline
+
+1. Install [easy-jenkins](https://github.com/gmacario/easy-jenkins)
+2. Install Jenkins pipeline
+
+#### Execute the program on a Raspberry Pi
+
+```
+pi@rpi3gm23:~/github/rokers-reply/rokers-hunting-razerblade$ docker run -v $PWD:/app -w /app python:3.6.4-alpine3.6 python3 parsing.py
+pi@rpi3gm23:~/github/rokers-reply/rokers-hunting-razerblade$
+```
 
 ### License and Copyright
 
