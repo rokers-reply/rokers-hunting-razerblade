@@ -10,6 +10,7 @@ pipeline {
       steps {
         echo 'Building output files'
         sh 'python3 parsing.py'
+        archiveArtifacts '*.py'
       }
     }
   }
