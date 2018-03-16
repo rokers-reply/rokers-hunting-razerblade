@@ -16,7 +16,7 @@ This the repository with the solution to the [Reply Code Challenge](https://chal
 * [x] (M.0) Read and understand the [Reply Code Challenge rules](https://challenges.reply.com/tamtamy/page/platformRules.action)
 * [x] (M.0) Read and understand the [Terms and Conditions for RC18](https://challenges.reply.com/tamtamy/documents/challenges/RC18_World_Terms&Condition.pdf)
 * [x] (M.1) Agree on the Project Rules
-* [ ] (M.2) [Have Fun]( https://github.com/ludusrusso/rokers-hunting-razerblade/issues/12)
+* [ ] (M.2) [Have Fun]( https://github.com/rokers-reply/rokers-hunting-razerblade/issues/12)
 * [ ] (M.2+) ...
 * [ ] (M.NaN) Profit!
 
@@ -34,19 +34,19 @@ This the repository with the solution to the [Reply Code Challenge](https://chal
 ### The Project Rules
 
 1. We (the Project Team) only code in Python
-2. No Project Team member can leave the Project before completion of [M.2](https://github.com/ludusrusso/rokers-hunting-razerblade/milestone/3)
+2. No Project Team member can leave the Project before completion of [M.2](https://github.com/rokers-reply/rokers-hunting-razerblade/milestone/3)
 3. All the communications between the Project Team members take place using one of the following channels:
-   - Issues and Pull Requests on GitHub project [ludusrusso/rokers-hunting-razerblade](https://github.com/ludusrusso/rokers-hunting-razerblade)
+   - Issues and Pull Requests on GitHub project [rokers-reply/rokers-hunting-razerblade](https://github.com/rokers-reply/rokers-hunting-razerblade)
    - Messages on the Telegram group "ROKERS hunting for a Razer Blade"
-   - Chat inside the [JOL](https://github.com/ludusrusso/rokers-hunting-razerblade/issues/10)
+   - Chat inside the [JOL](https://github.com/rokers-reply/rokers-hunting-razerblade/issues/10)
 4. Any change to the Project Rules follows the Change Management process described below
 5. The Only (remaining) Rule Is That [There Are No Rules](https://www.youtube.com/watch?v=YN0WTpEZn3w)
 
 ### Change Management Process
 
-* Any Team Member may propose a change to the Project Rules above by creating a [new Issue](https://github.com/ludusrusso/rokers-hunting-razerblade/issues/new).
+* Any Team Member may propose a change to the Project Rules above by creating a [new Issue](https://github.com/rokers-reply/rokers-hunting-razerblade/issues/new).
 * The change must be reviewed and approved by all the other Project Team members.
-* If the change is approved, the proposer shall update this document by means of a corresponding [Pull Request](https://github.com/ludusrusso/rokers-hunting-razerblade/pulls).
+* If the change is approved, the proposer shall update this document by means of a corresponding [Pull Request](https://github.com/rokers-reply/rokers-hunting-razerblade/pulls).
 
 ### How to use the program
 
