@@ -68,6 +68,7 @@ def parse_file(filename):
     data["contries"] = lines[2].split()
 
     lines = lines[3:]
+
     services = {}
     for _ in range(n_services):
         provider, lines = parse_service(lines)
